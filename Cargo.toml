@@ -1,0 +1,13 @@
+[package]
+name = "chars_counter"
+version = "0.1.1"
+edition = "2021"
+authors = ["Voidsand <voidsand@hotmail.com>"]
+description = "The trait that implements character counting for the &str type"
+repository = "https://github.com/voidsand/chars_counter"
+license = "MIT OR Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+itertools = "0.10.1"
